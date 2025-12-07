@@ -1,0 +1,23 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-design {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    margin: 6px 0;
+    flex-wrap: wrap;
+    cursor: pointer;
+    
+}
+
+.read {
+    background-color: rgba(208, 207, 207, 0.714);
+}
+
+.unread {
+    background-color: white;
+}
